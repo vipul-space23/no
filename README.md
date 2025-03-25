@@ -1,7 +1,3 @@
-Below is the updated README with some emojis for a cleaner, engaging look:
-
----
-
 # Document Verification System Using Blockchain & IPFS 🔒📜
 
 A robust hackathon project that leverages modern web technologies, blockchain smart contracts, and decentralized storage to securely store and verify academic documents such as marksheets. This solution ensures tamper-proof record keeping with role-based access control and optimized gas fee management.
